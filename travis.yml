@@ -1,0 +1,6 @@
+services:
+  - docker
+before_install:
+  - docker build -t movement .
+script:
+  - docker run -ti movement R -e 'library(crawl)'
