@@ -8,4 +8,16 @@ RUN install2.r --error \
     MHadaptive \
     bmk \
     extraDistr \
-    snow
+    pracma \
+    yaml \
+    conflicted \
+    dotenv \
+    drake \
+    anytime \
+    dplyr \
+    ggplot2 \
+    lubridate \
+    MASS \
+    nimble \
+    stringr \
+    tidyr
