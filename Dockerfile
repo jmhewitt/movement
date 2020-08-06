@@ -20,4 +20,6 @@ RUN install2.r --error \
     MASS \
     nimble \
     stringr \
-    tidyr
+    tidyr \
+    coda \
+    ggpubr
